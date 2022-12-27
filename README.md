@@ -1,5 +1,5 @@
 # dragao-do-mar
-This webpage provides an overview of the life and career of Dragão do Mar, a Brazilian pirate and corsair who operated in the early 18th century.</br>
+This webpage provides an overview of the life and career of Dragão do Mar, a Brazilian raft fisherman (jangadeiro), pilot and abolitionist figure that operated in the early 18th century.</br>
 
 The webpage features a detailed timeline of key events in Dragão do Mar's life, as well as images and illustrations to help bring the story to life.
 The webpage also includes links to additional resources for further reading.</br>
